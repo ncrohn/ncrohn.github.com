@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Nick Crohn]]></title>
+  <link href="http://ncrohn.github.com/atom.xml" rel="self"/>
+  <link href="http://ncrohn.github.com/"/>
+  <updated>2012-03-03T10:51:44-07:00</updated>
+  <id>http://ncrohn.github.com/</id>
+  <author>
+    <name><![CDATA[Nick Crohn]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Coding! Do you do it?]]></title>
+    <link href="http://ncrohn.github.com/blog/2012/03/02/coding-do-you-do-it/"/>
+    <updated>2012-03-02T17:18:00-07:00</updated>
+    <id>http://ncrohn.github.com/blog/2012/03/02/coding-do-you-do-it</id>
+    <content type="html"><![CDATA[<p>This is a place for my coding stories and defunct experiments.</p>
+
+<p>Stay tuned, the posts will be flowing soon.</p>
+]]></content>
+  </entry>
+  
+</feed>
